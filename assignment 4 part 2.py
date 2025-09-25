@@ -8,7 +8,8 @@ stress_level = 70
 print("=== Welcome to the Acedemic game with your host: Shikel ===")
 print(f"Student Name: {student_name}")
 print(f"Current GPA: {current_gpa}")
-print(f"Study Hours: {study_hours}")
+print(f"Study Hours: {study_hours}")                                                    #No A.I used for this section either. Though I did use google to help me understand if statements. 
+
 print(f"Social Points: {social_points}")
 print(f"Stress Level: {stress_level}/100")
 
@@ -41,11 +42,12 @@ elif choice == "C":
     if current_gpa >= 3.5:
         study_hours += 6
         stress_level += 15
-        print("Heavy load chosen. High GPA allows tough challenge.")
+        print("Heavy load chosen. High GPA allows tough chalenge.")
     else:
         stress_level += 20
-        print("Heavy load chosen without high GPA. Risk of burnout!")
+        print("Heavy load chosen without high GPA. RIsk of burnout!")
 
 else:
     print("Invalid input. No course load assigned.")
+
 
