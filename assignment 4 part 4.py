@@ -108,6 +108,11 @@ print(f"Stress Level: {stress_level}/100")
 
 
 
+#This is full code. A.I was used to help membership operators. ALso needed help from TA with everything involving github.
+
+
+
+
 
 
 
