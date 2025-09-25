@@ -8,7 +8,7 @@ stress_level = 70
 print("=== Welcome to the Acedemic game with your host: Shikel ===")
 print(f"Student Name: {student_name}")
 print(f"Current GPA: {current_gpa}")
-print(f"Study Hours: {study_hours}")
+print(f"Study Hours: {study_hours}")                   #Chatgbt was used to help clarify and understanding logic operatorss and with help figuring out where my code was going wrong.
 print(f"Social Points: {social_points}")
 print(f"Stress Level: {stress_level}/100")
 
@@ -79,6 +79,7 @@ if user_choice in study_options:
 
 else:
     print("Invalid choice! That subject is not in the study options.")
+
 
 
 
