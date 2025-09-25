@@ -12,4 +12,5 @@ print(f"Study Hours: {study_hours}")
 print(f"Social Points: {social_points}")
 print(f"Stress Level: {stress_level}/100")
 
+#I completed this part with no A.i as it was easy. ALthough The test cases would not allow me to use input for my variables.
 
